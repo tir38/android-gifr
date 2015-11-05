@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gifr</string>
+    <string name="content_description_gif">some gif</string>
+    <string name="update">update</string>
+</resources>
